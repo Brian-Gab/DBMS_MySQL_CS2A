@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1700892463 source:c:\users\brian g\documents\documents\vs\c++\2nd year\dbms_project2\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<algorithm>
+	<cstring>
+
+1700981066 source:c:\users\brian g\documents\documents\vs\c++\2nd year\dbms_project\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<algorithm>
+	<string>
+	<cstring>
+	<conio.h>
+
